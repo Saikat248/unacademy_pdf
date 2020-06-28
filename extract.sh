@@ -10,4 +10,4 @@ wget -i final_sorted.html
 
 # Cleaning up
 
-rm *.[0-9]
+rm *.[0-9] *.html
